@@ -4,8 +4,8 @@ using namespace std;
 /*
    Helpful conversions:
      inches * 2.54 -> cm
-	 cm   * 0.01   -> m
-	 feet * 12     -> inches
+     cm   * 0.01   -> m
+     feet * 12     -> inches
 */
 
 //Write your converHeightToMeters function here
