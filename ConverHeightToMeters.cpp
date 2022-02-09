@@ -14,8 +14,8 @@ using namespace std;
 int main() {
 
 	convertHeightToMeters(6, 4);
-	convertHeightToMeters(0, 6);
 	convertHeightToMeters(5, 8);
+	convertHeightToMeters(5, 2);
 	convertHeightToMeters(5, 5);
 	convertHeightToMeters(10, 3);
 	convertHeightToMeters(10, 0);
